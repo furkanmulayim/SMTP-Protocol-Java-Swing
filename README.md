@@ -2,5 +2,5 @@
 
 
 <p align="center">
-<img src="/sc/sc.png "width="800">
+<img src="/smtpOdev/sc/sc.png "width="800">
 </p>
