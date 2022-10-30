@@ -1,4 +1,4 @@
-# STMP-Protocol-Java-Swing
+# SMTP-Protocol-Java-Swing
 
 
 <p align="center">
